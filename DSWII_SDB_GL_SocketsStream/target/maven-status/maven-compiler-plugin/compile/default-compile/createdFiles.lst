@@ -1,0 +1,12 @@
+pe\edu\cibertec\dswii\proyecto\socketstream\model\Editorial.class
+pe\edu\cibertec\dswii\proyecto\socketstream\model\Idioma.class
+pe\edu\cibertec\dswii\proyecto\socketstream\model\Libro.class
+pe\edu\cibertec\dswii\proyecto\socketstream\servidor\mensaje\ServidorMensaje.class
+pe\edu\cibertec\dswii\proyecto\socketstream\cliente\transferencia\ClienteTransferenciaMain.class
+pe\edu\cibertec\dswii\proyecto\socketstream\cliente\transferencia\ClienteTransferencia.class
+pe\edu\cibertec\dswii\proyecto\socketstream\cliente\mensaje\ClienteMensaje.class
+pe\edu\cibertec\dswii\proyecto\socketstream\servidor\mensaje\ServidorMensajeMain.class
+pe\edu\cibertec\dswii\proyecto\socketstream\servidor\transferencia\ServidorTransferenciaMain.class
+pe\edu\cibertec\dswii\proyecto\socketstream\cliente\mensaje\ClienteMensajeMain.class
+pe\edu\cibertec\dswii\proyecto\socketstream\servidor\transferencia\ServidorTransferencia.class
+pe\edu\cibertec\dswii\proyecto\socketstream\model\Categoria.class
