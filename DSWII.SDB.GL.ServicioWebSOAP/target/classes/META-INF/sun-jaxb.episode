@@ -1,0 +1,97 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<bindings version="3.0" xmlns="https://jakarta.ee/xml/ns/jaxb">
+  <!--
+
+Este archivo ha sido generado por Eclipse Implementation of JAXB v4.0.5 
+Visite https://eclipse-ee4j.github.io/jaxb-ri 
+Todas las modificaciones realizadas en este archivo se perderán si se vuelve a compilar el esquema de origen. 
+Generado el: 2024.12.22 a las 04:13:15 PM GMT-05:00
+  -->
+  <bindings scd="x-schema::tns" if-exists="true" auto-acknowledge="true" xmlns:tns="http://t05.u02.dswii.cibertec.edu.pe/categoria-service">
+    <schemaBindings map="false">
+      <package name="pe.edu.cibertec.dswii.proyecto.model.categoria"/>
+    </schemaBindings>
+    <bindings scd="tns:GetCategoriaRequest" if-exists="true" auto-acknowledge="true">
+      <class ref="pe.edu.cibertec.dswii.proyecto.model.categoria.GetCategoriaRequest"/>
+    </bindings>
+    <bindings scd="tns:GetCategoriaResponse" if-exists="true" auto-acknowledge="true">
+      <class ref="pe.edu.cibertec.dswii.proyecto.model.categoria.GetCategoriaResponse"/>
+    </bindings>
+    <bindings scd="~tns:Categoria" if-exists="true" auto-acknowledge="true">
+      <class ref="pe.edu.cibertec.dswii.proyecto.model.categoria.Categoria"/>
+    </bindings>
+    <bindings scd="tns:RegistrarCategoriaRequest" if-exists="true" auto-acknowledge="true">
+      <class ref="pe.edu.cibertec.dswii.proyecto.model.categoria.RegistrarCategoriaRequest"/>
+    </bindings>
+    <bindings scd="tns:RegistrarCategoriaResponse" if-exists="true" auto-acknowledge="true">
+      <class ref="pe.edu.cibertec.dswii.proyecto.model.categoria.RegistrarCategoriaResponse"/>
+    </bindings>
+  </bindings>
+  <bindings scd="x-schema::tns" if-exists="true" auto-acknowledge="true" xmlns:tns="http://t05.u02.dswii.cibertec.edu.pe/editorial-service">
+    <schemaBindings map="false">
+      <package name="pe.edu.cibertec.dswii.proyecto.model.editorial"/>
+    </schemaBindings>
+    <bindings scd="tns:GetEditorialRequest" if-exists="true" auto-acknowledge="true">
+      <class ref="pe.edu.cibertec.dswii.proyecto.model.editorial.GetEditorialRequest"/>
+    </bindings>
+    <bindings scd="tns:GetEditorialResponse" if-exists="true" auto-acknowledge="true">
+      <class ref="pe.edu.cibertec.dswii.proyecto.model.editorial.GetEditorialResponse"/>
+    </bindings>
+    <bindings scd="~tns:Editorial" if-exists="true" auto-acknowledge="true">
+      <class ref="pe.edu.cibertec.dswii.proyecto.model.editorial.Editorial"/>
+    </bindings>
+    <bindings scd="tns:RegistrarEditorialRequest" if-exists="true" auto-acknowledge="true">
+      <class ref="pe.edu.cibertec.dswii.proyecto.model.editorial.RegistrarEditorialRequest"/>
+    </bindings>
+    <bindings scd="tns:RegistrarEditorialResponse" if-exists="true" auto-acknowledge="true">
+      <class ref="pe.edu.cibertec.dswii.proyecto.model.editorial.RegistrarEditorialResponse"/>
+    </bindings>
+  </bindings>
+  <bindings scd="x-schema::tns" if-exists="true" auto-acknowledge="true" xmlns:tns="http://t05.u02.dswii.cibertec.edu.pe/idioma-service">
+    <schemaBindings map="false">
+      <package name="pe.edu.cibertec.dswii.proyecto.model.idioma"/>
+    </schemaBindings>
+    <bindings scd="tns:GetIdiomaRequest" if-exists="true" auto-acknowledge="true">
+      <class ref="pe.edu.cibertec.dswii.proyecto.model.idioma.GetIdiomaRequest"/>
+    </bindings>
+    <bindings scd="tns:GetIdiomaResponse" if-exists="true" auto-acknowledge="true">
+      <class ref="pe.edu.cibertec.dswii.proyecto.model.idioma.GetIdiomaResponse"/>
+    </bindings>
+    <bindings scd="~tns:Idioma" if-exists="true" auto-acknowledge="true">
+      <class ref="pe.edu.cibertec.dswii.proyecto.model.idioma.Idioma"/>
+    </bindings>
+    <bindings scd="tns:RegistrarIdiomaRequest" if-exists="true" auto-acknowledge="true">
+      <class ref="pe.edu.cibertec.dswii.proyecto.model.idioma.RegistrarIdiomaRequest"/>
+    </bindings>
+    <bindings scd="tns:RegistrarIdiomaResponse" if-exists="true" auto-acknowledge="true">
+      <class ref="pe.edu.cibertec.dswii.proyecto.model.idioma.RegistrarIdiomaResponse"/>
+    </bindings>
+  </bindings>
+  <bindings scd="x-schema::tns" if-exists="true" auto-acknowledge="true" xmlns:tns="http://t05.u02.dswii.cibertec.edu.pe/libro-service">
+    <schemaBindings map="false">
+      <package name="pe.edu.cibertec.dswii.proyecto.model.libro"/>
+    </schemaBindings>
+    <bindings scd="tns:GetLibroRequest" if-exists="true" auto-acknowledge="true">
+      <class ref="pe.edu.cibertec.dswii.proyecto.model.libro.GetLibroRequest"/>
+    </bindings>
+    <bindings scd="tns:GetLibroResponse" if-exists="true" auto-acknowledge="true">
+      <class ref="pe.edu.cibertec.dswii.proyecto.model.libro.GetLibroResponse"/>
+    </bindings>
+    <bindings scd="~tns:Libro" if-exists="true" auto-acknowledge="true">
+      <class ref="pe.edu.cibertec.dswii.proyecto.model.libro.Libro"/>
+    </bindings>
+    <bindings scd="tns:RegistrarLibroRequest" if-exists="true" auto-acknowledge="true">
+      <class ref="pe.edu.cibertec.dswii.proyecto.model.libro.RegistrarLibroRequest"/>
+    </bindings>
+    <bindings scd="tns:RegistrarLibroResponse" if-exists="true" auto-acknowledge="true">
+      <class ref="pe.edu.cibertec.dswii.proyecto.model.libro.RegistrarLibroResponse"/>
+    </bindings>
+    <bindings scd="tns:EliminarLibroRequest" if-exists="true" auto-acknowledge="true">
+      <class ref="pe.edu.cibertec.dswii.proyecto.model.libro.EliminarLibroRequest"/>
+    </bindings>
+    <bindings scd="tns:EliminarLibroResponse" if-exists="true" auto-acknowledge="true">
+      <class ref="pe.edu.cibertec.dswii.proyecto.model.libro.EliminarLibroResponse"/>
+    </bindings>
+  </bindings>
+</bindings>
+
