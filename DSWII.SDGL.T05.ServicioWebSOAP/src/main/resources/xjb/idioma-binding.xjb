@@ -1,9 +1,0 @@
-<jxb:bindings xmlns:jxb="https://jakarta.ee/xml/ns/jaxb"
-              xmlns:xsd="http://www.w3.org/2001/XMLSchema"
-              version="3.0">
-    <jxb:bindings schemaLocation="../xsd/idioma-schema.xsd" node="/xsd:schema">
-        <jxb:schemaBindings>
-            <jxb:package name="pe.edu.cibertec.dswii.proyecto.model.idioma"/>
-        </jxb:schemaBindings>
-    </jxb:bindings>
-</jxb:bindings>
