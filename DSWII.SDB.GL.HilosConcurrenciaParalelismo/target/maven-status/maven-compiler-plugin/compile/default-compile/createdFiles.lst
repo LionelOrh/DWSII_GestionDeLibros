@@ -1,0 +1,10 @@
+pe\edu\cibertec\dswii\sdb\gl\hilosconcurrenciaparalelismo\concurrenciaParalelismo\tareaConcurrenciaMain.class
+pe\edu\cibertec\dswii\sdb\gl\hilosconcurrenciaparalelismo\crecionHilosLibros\HiloVariadoMain.class
+pe\edu\cibertec\dswii\sdb\gl\hilosconcurrenciaparalelismo\entity\idioma.class
+pe\edu\cibertec\dswii\sdb\gl\hilosconcurrenciaparalelismo\manejoHilosLibros\tareaLibroMain.class
+pe\edu\cibertec\dswii\sdb\gl\hilosconcurrenciaparalelismo\entity\libro.class
+pe\edu\cibertec\dswii\sdb\gl\hilosconcurrenciaparalelismo\manejoHilosLibros\tareaLibro.class
+pe\edu\cibertec\dswii\sdb\gl\hilosconcurrenciaparalelismo\crecionHilosLibros\HiloLibroRunnable.class
+pe\edu\cibertec\dswii\sdb\gl\hilosconcurrenciaparalelismo\concurrenciaParalelismo\tareaConcurrencia.class
+pe\edu\cibertec\dswii\sdb\gl\hilosconcurrenciaparalelismo\entity\categoria.class
+pe\edu\cibertec\dswii\sdb\gl\hilosconcurrenciaparalelismo\entity\editorial.class
