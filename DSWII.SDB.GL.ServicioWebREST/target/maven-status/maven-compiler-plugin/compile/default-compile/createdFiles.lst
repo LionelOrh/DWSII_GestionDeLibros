@@ -1,0 +1,9 @@
+pe\edu\cibertec\gestion\libros\DSWIISDBGLServicioWebREST.class
+pe\edu\cibertec\gestion\libros\ws\CategoriaRestController.class
+pe\edu\cibertec\gestion\libros\model\Categoria.class
+pe\edu\cibertec\gestion\libros\model\Editorial.class
+pe\edu\cibertec\gestion\libros\model\Libro.class
+pe\edu\cibertec\gestion\libros\model\Idioma.class
+pe\edu\cibertec\gestion\libros\ws\IdiomaRestController.class
+pe\edu\cibertec\gestion\libros\ws\LibroRestController.class
+pe\edu\cibertec\gestion\libros\ws\EditorialRestController.class
