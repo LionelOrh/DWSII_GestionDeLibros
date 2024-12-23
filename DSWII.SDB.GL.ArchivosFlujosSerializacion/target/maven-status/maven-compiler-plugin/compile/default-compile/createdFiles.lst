@@ -1,0 +1,13 @@
+pe\edu\cibertec\gestion\libros\archivostexto\ArchivoTextoGestorMain.class
+pe\edu\cibertec\gestion\libros\model\Categoria.class
+pe\edu\cibertec\gestion\libros\DSWIISDBGLArchivosFlujosSerializacion.class
+pe\edu\cibertec\gestion\libros\model\Editorial.class
+pe\edu\cibertec\gestion\libros\xml\ArchivoXMLGestorMain.class
+pe\edu\cibertec\gestion\libros\archivostexto\ArchivoTextoGestor.class
+pe\edu\cibertec\gestion\libros\model\Idioma.class
+pe\edu\cibertec\gestion\libros\xml\ArchivoXMLGestor.class
+pe\edu\cibertec\gestion\libros\archivosserializados\ArchivoSerializadoGestor.class
+pe\edu\cibertec\gestion\libros\model\Libro.class
+pe\edu\cibertec\gestion\libros\json\ArchivoJsonGestor.class
+pe\edu\cibertec\gestion\libros\json\ArchivoJsonGestorMain.class
+pe\edu\cibertec\gestion\libros\archivosserializados\ArchivoSerializadoGestorMain.class
